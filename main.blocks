@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="input_on_sound" id="8h2;^PLZ*Fx}pik/?=vr" x="278" y="-16"><field name="sound">DetectedSound.Loud</field><statement name="HANDLER"><block type="device_show_leds" id="HCj(_x|E@V{z1]V`N]9:"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></statement></block><block type="pxt-on-start" id="vEl%C@-^R*STmbGL/|ka" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="pXLiM+dMYRY=}E`|u[xM"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></xml>
